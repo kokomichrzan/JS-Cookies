@@ -1,4 +1,4 @@
-import { Cookies, DeleteCookie, CreateCookie, LoadCookies, ReLoadCookies } from "./Cookies.js";
+import { Cookies, CreateCookie, ChangeCookie, LoadCookies, ReLoadCookies, DeleteCookie } from "./Cookies.js";
 var Render = document.getElementById("Test");
 
 CreateCookie("A","A", 10000);
