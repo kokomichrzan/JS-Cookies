@@ -1,5 +1,5 @@
 <div align=center>
-  <img width=100% src="Assets/Background.gif">
+  <img width=100% src="Assets/Background.png">
 <h1>🍪JS Cookies Lib🍪</h1>
 
 <h2>🌐About🌐</h2>
