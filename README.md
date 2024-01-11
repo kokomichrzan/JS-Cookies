@@ -1,10 +1,12 @@
 <div align=center>
   <img width=100% src="Assets/Background.gif">
-<h1>💖Title💖</h1>
+<h1>🍪JS Cookies Lib🍪</h1>
 
 <h2>🌐About🌐</h2>
+It is easy Lib for manage Cookies in Java Script.
 
 <h2>📃Usage📃</h2>
+1. Download Cookies.js from Released Branch and add to your program.
 
 <h2>✨Contributors✨</h2>
 <table align=center>
