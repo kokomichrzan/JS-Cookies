@@ -3,7 +3,7 @@
 <h1>🍪JS Cookies Lib🍪</h1>
 
 <h2>🌐About🌐</h2>
-It is easy Lib for manage Cookies in Java Script.
+It is lightweight and easy Lib for manage Cookies in Java Script.
 
 <h2>📃Usage📃</h2>
 1. Download Cookies.js from Released Branch and add to your program.</br>
